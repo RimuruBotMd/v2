@@ -12,7 +12,7 @@ global.prems = ['6288980870067']
 //=============『 Info Owner 』============== //
 global.nameowner = 'Sabilofc'
 global.numberowner = '6288980870067','083112831554',
-global.instagram = 'https://instagram.com/FutubeMd'
+global.instagram = 'https://instagram.com/SiestaMd'
 global.github = 'https://github.com/RimuruBotMd'
 global.Youtube = 'https://youtube.com/channel/SabilOfc'
 global.sc = 'https://youtube.com/channel/SabilOfc'
@@ -24,7 +24,7 @@ global.pulsa = '088980870067'
 global.gopay = '088980870067'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'Futube Md'
+global.namebot = 'Siesta Md'
 global.gc = 'https://chat.whatsapp.com/Gada Lol'
 global.web = 'https : //github.com/RimuruBotMd' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.webm = 'https://instagram.com/SabilOfc'
@@ -44,7 +44,7 @@ global.fotonya8 = 'https://telegra.ph/file/b6b25d5ff74febec06fb4.jpg' //foto ses
 global.donasi = 'https://telegra.ph/file/b6b25d5ff74febec06fb4.jpg' //ganti pakai poto payment atau apa
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = 'Futube Md'
+global.wm = 'Siesta Md'
 global.watermark = wm
 global.wm2 = 'ᯤ creator by SabilOfc'
 global.wm3 = 'ᯤ Sabil Ofc'
@@ -57,7 +57,7 @@ global.eror = '_*🚨 Server Bot Sedang Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '⏳ Stiker sedang Proses'
-global.packname = 'Futube Md'
+global.packname = 'Siesta Md'
 global.author = '@Sabil Ofc'
 
 //=============『 Apikey 』================== //
